@@ -13,9 +13,9 @@ I provide macOS® user-space drivers for USB-to-CAN interfaces:
 macOS® User-Space Drivers:
 <br/><br/>
 <ul>
-<li><a href"https://github.com/mac-can/PCBUSB-Library">PCAN-USB Interfaces</a> from PEAK-System</li><br/>
-<li><a href"https://github.com/mac-can/RusokuCAN">TouCAN USB Interfaces</a> from Rusoku</li><br/>
-<li><a href"https://github.com/mac-can/MacCAN-KvaserCAN">CAN Leaf Interfaces</a> from Kvaser</li><br/>
+<li><a title="mac-can/PCBUSB-Library" href="https://github.com/mac-can/PCBUSB-Library">PCAN-USB Interfaces</a> from PEAK-System</li><br/>
+<li><a title="mac-can/RusokuCAN" href="https://github.com/mac-can/RusokuCAN">TouCAN USB Interfaces</a> from Rusoku</li><br/>
+<li><a title="mac-can/MacCAN-KvaserCAN" href="https://github.com/mac-can/MacCAN-KvaserCAN">CAN Leaf Interfaces</a> from Kvaser</li><br/>
 <li>...</li>
 </ul>
 </td>

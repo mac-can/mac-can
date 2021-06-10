@@ -1,8 +1,8 @@
-_Running CAN and CAN FD on a Mac_ is the mission of the MacCAN project.
+_Running CAN and CAN FD on Mac_ is the mission of the MacCAN project.
 There are many companies offering multifarious CAN hardware and CAN software.
 Unfortunately, few of them provide a driver for the Mac.
 
-I provide macOS® user-space drivers for USB-to-CAN interfaces from various vendors.
+UV Software provides macOS® user-space drivers for USB-to-CAN interfaces from various vendors.
 
 <table>
 <tr>

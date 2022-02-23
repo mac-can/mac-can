@@ -7,14 +7,14 @@ UV Software provides macOS® user-space drivers for USB-to-CAN interfaces from v
 <table>
 <tr>
 <td>
-<a title="CAN API V3 on macOS® (Copyright © 2012-2021 by UV Software, Berlin)" href"https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png"><img src="https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png" alt="CAN API V3 on macOS®" width=300px></a>
+<a title="CAN API V3 on macOS® (Copyright © 2012-2022 by UV Software, Berlin)" href"https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png"><img src="https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png" alt="CAN API V3 on macOS®" width=300px></a>
 </td>
 <td>
 macOS® CAN User-Space Drivers:
 <br/><br/>
 <ul>
 <li><a title="mac-can/PCBUSB-Library" href="https://github.com/mac-can/PCBUSB-Library">PCAN-USB Interfaces</a> from PEAK-System</li><br/>
-<li><a title="mac-can/RusokuCAN" href="https://github.com/mac-can/RusokuCAN">TouCAN USB Interfaces</a> from Rusoku</li><br/>
+<li><a title="mac-can/RusokuCAN" href="https://github.com/mac-can/RusokuCAN.dylib">TouCAN USB Interfaces</a> from Rusoku</li><br/>
 <li><a title="mac-can/MacCAN-KvaserCAN" href="https://github.com/mac-can/KvaserCAN-Library">CAN Leaf Interfaces</a> from Kvaser</li><br/>
 <li>...</li>
 </ul>
@@ -24,4 +24,4 @@ macOS® CAN User-Space Drivers:
 
 See the [MacCAN GitHub Pages](https://mac-can.github.io/) website to learn more about the entire MacCAN project and its sub-projects.
 
-<small><em>Copyright &copy; 2021 Uwe Vogt, UV Software, Berlin.</em></small>
+<small><em>Copyright &copy; 2021-2022 Uwe Vogt, UV Software, Berlin.</em></small>

@@ -15,7 +15,7 @@ macOS® CAN User-Space Drivers:
 <ul>
 <li><a title="mac-can/PCBUSB-Library" href="https://github.com/mac-can/PCBUSB-Library">PCAN-USB Interfaces</a> from PEAK-System</li><br/>
 <li><a title="mac-can/RusokuCAN" href="https://github.com/mac-can/RusokuCAN.dylib">TouCAN USB Interfaces</a> from Rusoku</li><br/>
-<li><a title="mac-can/MacCAN-KvaserCAN" href="https://github.com/mac-can/KvaserCAN-Library">CAN Leaf Interfaces</a> from Kvaser</li><br/>
+<li><a title="mac-can/MacCAN-KvaserCAN" href="https://github.com/mac-can/KvaserCAN-Library">USB CAN Interfaces</a> from Kvaser</li><br/>
 <li>...</li>
 </ul>
 </td>

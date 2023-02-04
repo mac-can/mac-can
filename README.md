@@ -7,7 +7,7 @@ UV Software provides macOS® user-space drivers for USB-to-CAN interfaces from v
 <table>
 <tr>
 <td>
-<a title="CAN API V3 on macOS® (Copyright © 2012-2022 by UV Software, Berlin)" href"https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png"><img src="https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png" alt="CAN API V3 on macOS®" width=300px></a>
+<a title="CAN API V3 on macOS® (Copyright © 2012-2023 by UV Software, Berlin)" href"https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png"><img src="https://github.com/mac-can/mac-can/blob/main/images/canapi_macos.png" alt="CAN API V3 on macOS®" width=300px></a>
 </td>
 <td>
 macOS® CAN User-Space Drivers:
@@ -24,4 +24,4 @@ macOS® CAN User-Space Drivers:
 
 See the [MacCAN GitHub Pages](https://mac-can.github.io/) website to learn more about the entire MacCAN project and its sub-projects.
 
-<small><em>Copyright &copy; 2021-2022 Uwe Vogt, UV Software, Berlin.</em></small>
+<small><em>Copyright &copy; 2021-2023 Uwe Vogt, UV Software, Berlin.</em></small>

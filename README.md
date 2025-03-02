@@ -22,8 +22,8 @@ macOS® CAN User-Space Drivers:
 </tr>
 </table>
 
-See the [MacCAN GitHub Pages](https://mac-can.github.io/) website to learn more about the entire MacCAN project and its sub-projects.
+See the [MacCAN GitHub pages](https://mac-can.github.io/) to learn more about the entire MacCAN project and its sub-projects.
 
-A generic documentation of the CAN API V3 application programming interface can be found [here](https://uv-software.github.io/CANAPI-Docs/#/).
+A generic documentation of the CAN API V3 application programming interface is available as [Docsify pages](https://uv-software.github.io/CANAPI-Docs/#/).
 
-<small><em>Copyright &copy; 2021-2024 Uwe Vogt, UV Software, Berlin.</em></small>
+<small><em>Copyright &copy; 2021-2025 Uwe Vogt, UV Software, Berlin.</em></small>
